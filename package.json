@@ -1,0 +1,21 @@
+{
+  "name": "envoy-data-plane-api-es",
+  "version": "1.36.3",
+  "description": "envoy js/ts protobuf api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "envoy",
+    "data-plane-api"
+  ],
+  "author": "lingyu1312@gmail.com",
+  "license": "Apache 2.0",
+  "packageManager": "pnpm@10.20.0",
+  "dependencies": {
+    "@bufbuild/protobuf": "^2.10.0",
+    "install": "^0.13.0",
+    "pnpm": "^10.20.0"
+  }
+}
